@@ -7,4 +7,4 @@ The sinking of the RMS Titanic is one of the most infamous shipwrecks in history
 3. KNN (K_Nearest_Neighbors)
 4. Naive Bayes
 
-## Random Forest model give a best accuracy  
+## Random Forest model give a best accuracy-84%  
